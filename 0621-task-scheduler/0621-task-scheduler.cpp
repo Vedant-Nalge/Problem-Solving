@@ -2,14 +2,14 @@ class Solution {
 public:
     int leastInterval(vector<char>& tasks, int n) {
 
-        // 1. Count frequency of each task
+       
         vector<int> freq(26, 0);
 
         for (char c : tasks) {
             freq[c - 'A']++;
         }
 
-        // 2. Max heap stores frequencies
+        
         priority_queue<int> pq;
 
         for (int f : freq) {
