@@ -49,4 +49,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
+## Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0901-online-stock-span) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0901-online-stock-span) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
