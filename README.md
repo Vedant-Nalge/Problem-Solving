@@ -111,10 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
