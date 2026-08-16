@@ -4,20 +4,22 @@ public:
         int n = nums.size();
         priority_queue<pair<int,int>> pq;
         unordered_map<int,int> frq;
-
         vector<int> ans;
         for(int i =0;i<n;i++){
             frq[nums[i]]++;
         }
+
         for(auto it :frq){
             pq.push({it.second,it.first});
         }
-
-        while(pq.size()!=frq.size()-k){
-            auto a = pq.top();
-            ans.push_back(a.second);
+        while(k>0){
+            int a = pq.top().second;
+            ans.push_back(a);
             pq.pop();
+            k--;
+
         }
-       return ans; 
+        return ans;
+        
     }
 };
