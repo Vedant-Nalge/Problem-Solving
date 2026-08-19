@@ -199,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0222-count-complete-tree-nodes) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
