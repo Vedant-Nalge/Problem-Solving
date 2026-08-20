@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0662-maximum-width-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0700-search-in-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0662-maximum-width-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0700-search-in-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/2236-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
@@ -207,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0237-delete-node-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
