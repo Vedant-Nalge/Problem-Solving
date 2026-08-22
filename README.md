@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0130-surrounded-regions) |
+| [0169-majority-element](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0013-roman-to-integer) |
 | [0126-word-ladder-ii](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0127-word-ladder) |
+| [0169-majority-element](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
@@ -50,12 +53,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0621-task-scheduler) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
@@ -259,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0126-word-ladder-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
