@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0145-binary-tree-postorder-traversal) |
+| [0207-course-schedule](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0207-course-schedule) |
 | [0543-diameter-of-binary-tree](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0662-maximum-width-of-binary-tree) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0130-surrounded-regions) |
+| [0207-course-schedule](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0662-maximum-width-of-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0994-rotting-oranges) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0547-number-of-provinces) |
 ## Bidirectional Search
 |  |
@@ -268,4 +271,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0169-majority-element) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
