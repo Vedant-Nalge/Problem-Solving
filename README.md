@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0130-surrounded-regions) |
 | [0169-majority-element](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0198-house-robber) |
 ## String
 |  |
 | ------- |
