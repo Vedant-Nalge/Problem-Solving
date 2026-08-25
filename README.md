@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0258-add-digits) |
+| [0319-bulb-switcher](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0319-bulb-switcher) |
 | [1903-largest-odd-number-in-string](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1903-largest-odd-number-in-string) |
 ## Simulation
 |  |
@@ -294,4 +295,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0070-climbing-stairs) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
