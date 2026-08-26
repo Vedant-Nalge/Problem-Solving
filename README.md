@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0213-house-robber-ii) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0222-count-complete-tree-nodes) |
 ## Linked List
 |  |
