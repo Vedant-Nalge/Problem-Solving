@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0258-add-digits) |
 | [0319-bulb-switcher](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0319-bulb-switcher) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0198-house-robber) |
@@ -328,4 +330,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0787-cheapest-flights-within-k-stops) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
