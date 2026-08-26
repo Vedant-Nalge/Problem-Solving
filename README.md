@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0746-min-cost-climbing-stairs) |
 | [0994-rotting-oranges](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1631-path-with-minimum-effort](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1631-path-with-minimum-effort) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0621-task-scheduler) |
+| [1631-path-with-minimum-effort](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1631-path-with-minimum-effort) |
 ## Counting
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0222-count-complete-tree-nodes) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1631-path-with-minimum-effort](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1631-path-with-minimum-effort) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0662-maximum-width-of-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -240,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0662-maximum-width-of-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0994-rotting-oranges) |
+| [1631-path-with-minimum-effort](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1631-path-with-minimum-effort) |
 ## DP on Trees
 |  |
 | ------- |
@@ -264,11 +269,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0130-surrounded-regions) |
 | [0994-rotting-oranges](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0994-rotting-oranges) |
+| [1631-path-with-minimum-effort](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1631-path-with-minimum-effort) |
 ## Union-Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0547-number-of-provinces) |
+| [1631-path-with-minimum-effort](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
@@ -308,4 +315,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0509-fibonacci-number) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
