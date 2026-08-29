@@ -1,44 +1,53 @@
 class Solution {
-
 public:
-    int helper(int ind, int target, vector<int>& nums, vector<vector<int>>& dp,
-               int offset) {
-        if (ind == 0) {
+    int solve(int ind, int target, vector<int>& arr, vector<vector<int>>& dp) {
 
-            if (nums[0] == target && nums[0] == -target)
+        if (ind == 0) {
+            if (target == 0 && arr[0] == 0)
                 return 2;
 
-            if (nums[0] == target || nums[0] == -target)
+            if (target == 0 || arr[0] == target)
                 return 1;
 
             return 0;
         }
-        if (abs(target) > offset)
+        if (dp[ind][target] != -1)
+            return dp[ind][target];
+
+        int nottake = solve(ind - 1, target, arr, dp);
+
+        int take = 0;
+
+        if (arr[ind] <= target) {
+            take = solve(ind - 1, target - arr[ind], arr, dp);
+        }
+
+        return dp[ind][target] = take + nottake;
+    }
+
+    int countPartitions(int n, int diff, vector<int>& arr) {
+
+        int totalSum = 0;
+
+        for (int x : arr) {
+            totalSum += x;
+        }
+
+        if (abs(diff) > totalSum)
             return 0;
 
-        if (dp[ind][target + offset] != -1)
-            return dp[ind][target + offset];
+        if ((totalSum - diff) % 2 != 0)
+            return 0;
 
-        int plus = helper(ind - 1, target - nums[ind], nums, dp, offset);
-        int minus = helper(ind - 1, target + nums[ind], nums, dp, offset);
+        int K = (totalSum - diff) / 2;
 
-        return dp[ind][target + offset] = plus + minus;
+        vector<vector<int>> dp(n, vector<int>(K + 1, -1));
+
+        return solve(n - 1, K, arr, dp);
     }
+
     int findTargetSumWays(vector<int>& nums, int target) {
         int n = nums.size();
-
-        int sum = 0;
-
-        for (int x : nums) {
-            sum += x;
-        }
-        int offset = sum;
-
-        if (abs(target) > sum)
-            return 0;
-
-        vector<vector<int>> dp(n, vector<int>(2 * sum + 1, -1));
-
-        return helper(n - 1, target, nums, dp, offset);
+        return countPartitions(n, target, nums);
     }
 };
