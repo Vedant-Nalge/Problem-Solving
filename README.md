@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0416-partition-equal-subset-sum) |
+| [0455-assign-cookies](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0621-task-scheduler) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0402-remove-k-digits) |
+| [0455-assign-cookies](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0621-task-scheduler) |
 | [1903-largest-odd-number-in-string](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1903-largest-odd-number-in-string) |
 ## Sorting
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0621-task-scheduler) |
 ## Heap (Priority Queue)
 |  |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
+| [0455-assign-cookies](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0455-assign-cookies) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search
 |  |
@@ -378,4 +382,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
