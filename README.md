@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0621-task-scheduler) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0746-min-cost-climbing-stairs) |
 | [0904-fruit-into-baskets](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0904-fruit-into-baskets) |
 | [0994-rotting-oranges](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0994-rotting-oranges) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0621-task-scheduler) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1903-largest-odd-number-in-string](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1903-largest-odd-number-in-string) |
 ## Sorting
 |  |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0509-fibonacci-number) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1092-shortest-common-supersequence](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1092-shortest-common-supersequence) |
