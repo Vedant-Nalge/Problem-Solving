@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0904-fruit-into-baskets) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## Greedy
 |  |
 | ------- |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0662-maximum-width-of-binary-tree) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0547-number-of-provinces) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0547-number-of-provinces) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Bidirectional Search
 |  |
@@ -410,4 +414,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0455-assign-cookies) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 <!---LeetCode Topics End-->
