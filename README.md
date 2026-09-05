@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0189-rotate-array](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0213-house-robber-ii) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0258-add-digits) |
 | [0319-bulb-switcher](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0319-bulb-switcher) |
 | [0368-largest-divisible-subset](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0368-largest-divisible-subset) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0455-assign-cookies) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search
