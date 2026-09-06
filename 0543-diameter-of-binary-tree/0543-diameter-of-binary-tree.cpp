@@ -10,17 +10,22 @@
  * };
  */
 class Solution {
-public: int ans=0;
-            int helper(TreeNode* node){
-                if(node==NULL) return 0 ;
-                int l = helper(node->left);
-                int r = helper(node-> right);
-                ans = max(ans,l+r);
-                return 1 + max(l,r);
-            }
-    int diameterOfBinaryTree(TreeNode* root) {
-         helper(root);
-        return ans;
+public:
+    int helper(TreeNode* root,int & diameter) {
+        if(root == NULL) return 0;
+
+        int l = helper(root->left,diameter);
+        int r = helper(root->right,diameter);
+        
+        diameter = max(diameter,l+r);
+        return  1 + max(l,r);
         
     }
+
+     int diameterOfBinaryTree(TreeNode* root) {
+        int diameter = 0;
+
+        helper(root,diameter);
+        return diameter;
+     }
 };
