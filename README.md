@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0904-fruit-into-baskets) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0621-task-scheduler) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0700-search-in-a-binary-search-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
@@ -293,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0700-search-in-a-binary-search-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/2236-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
@@ -313,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0994-rotting-oranges) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1631-path-with-minimum-effort) |
