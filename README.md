@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0368-largest-divisible-subset) |
 | [0509-fibonacci-number](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1922-count-good-numbers) |
 ## Simulation
 |  |
 | ------- |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1922-count-good-numbers) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
