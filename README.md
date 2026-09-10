@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1791-find-center-of-star-graph](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1791-find-center-of-star-graph) |
 ## Bidirectional Search
 |  |
 | ------- |
