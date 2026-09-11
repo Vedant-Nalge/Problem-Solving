@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-best-sightseeing-pair](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1014-best-sightseeing-pair) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1631-path-with-minimum-effort](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1631-path-with-minimum-effort) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0904-fruit-into-baskets) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/3483-unique-3-digit-even-numbers) |
 ## Greedy
 |  |
 | ------- |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1922-count-good-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/3483-unique-3-digit-even-numbers) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
@@ -491,4 +494,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0877-stone-game) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
