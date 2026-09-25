@@ -34,7 +34,7 @@ public:
 
             if (maxele >l  && maxele > r) {
                 return {ind, mid};
-            } else if (maxele < r) {
+            } else if (maxele > l) {
                 low = mid + 1;
             } else {
                 high = mid - 1;
