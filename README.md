@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0516-longest-palindromic-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0746-min-cost-climbing-stairs) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
+| [0516-longest-palindromic-subsequence](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0516-longest-palindromic-subsequence) |
 | [1021-remove-outermost-parentheses](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1021-remove-outermost-parentheses) |
 | [1092-shortest-common-supersequence](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1143-longest-common-subsequence) |
