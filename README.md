@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1631-path-with-minimum-effort) |
 | [1901-find-a-peak-element-ii](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1901-find-a-peak-element-ii) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/2563-count-the-number-of-fair-pairs) |
 | [3028-ant-on-the-boundary](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/3028-ant-on-the-boundary) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1631-path-with-minimum-effort](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1631-path-with-minimum-effort) |
 | [1901-find-a-peak-element-ii](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1901-find-a-peak-element-ii) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Bracket Sequences
 |  |
 | ------- |
