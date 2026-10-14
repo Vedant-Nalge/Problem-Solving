@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0206-reverse-linked-list) |
