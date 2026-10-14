@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0063-unique-paths-ii) |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0040-combination-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0126-word-ladder-ii) |
 | [0494-target-sum](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0494-target-sum) |
 ## Boyer–Moore Majority Vote Algorithm
