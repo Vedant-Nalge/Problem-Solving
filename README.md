@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0258-add-digits) |
 | [0319-bulb-switcher](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0319-bulb-switcher) |
 | [0368-largest-divisible-subset](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0368-largest-divisible-subset) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0455-assign-cookies) |
@@ -634,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0202-happy-number) |
 ## Binary Lifting
 |  |
 | ------- |
