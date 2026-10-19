@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0907-sum-of-subarray-minimums) |
 | [0928-minimize-malware-spread-ii](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0928-minimize-malware-spread-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0997-find-the-town-judge) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0846-hand-of-straights) |
+| [0977-squares-of-a-sorted-array](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Binary Search
