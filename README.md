@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0055-jump-game) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
