@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0621-task-scheduler) |
 | [0740-delete-and-earn](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0740-delete-and-earn) |
 | [0846-hand-of-straights](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0846-hand-of-straights) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0239-sliding-window-maximum) |
+| [0567-permutation-in-string](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0904-fruit-into-baskets) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0516-longest-palindromic-subsequence) |
+| [0567-permutation-in-string](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0567-permutation-in-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1021-remove-outermost-parentheses) |
 | [1092-shortest-common-supersequence](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1143-longest-common-subsequence) |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
