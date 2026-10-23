@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0242-valid-anagram) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
@@ -630,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0455-assign-cookies) |
 ## Bipartite Graph
 |  |
@@ -692,4 +696,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1757-recyclable-and-low-fat-products) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
