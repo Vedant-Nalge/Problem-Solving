@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0234-palindrome-linked-list) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0189-rotate-array) |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0237-delete-node-in-a-linked-list) |
@@ -603,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0002-add-two-numbers) |
+| [0143-reorder-list](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0486-predict-the-winner) |
