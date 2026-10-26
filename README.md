@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0997-find-the-town-judge) |
+| [1004-max-consecutive-ones-iii](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1014-best-sightseeing-pair](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1014-best-sightseeing-pair) |
 | [1046-last-stone-weight](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1046-last-stone-weight) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Monotonic Queue
 |  |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0222-count-complete-tree-nodes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1631-path-with-minimum-effort](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1631-path-with-minimum-effort) |
 | [1901-find-a-peak-element-ii](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1901-find-a-peak-element-ii) |
@@ -657,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3028-ant-on-the-boundary](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/3028-ant-on-the-boundary) |
 ## Quicksort
