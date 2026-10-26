@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1021-remove-outermost-parentheses) |
 | [1598-crawler-log-folder](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1598-crawler-log-folder) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/2487-remove-nodes-from-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0901-online-stock-span](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0907-sum-of-subarray-minimums) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/2487-remove-nodes-from-linked-list) |
 ## Data Stream
 |  |
 | ------- |
@@ -534,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/2487-remove-nodes-from-linked-list) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -624,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1922-count-good-numbers) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/2487-remove-nodes-from-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/3483-unique-3-digit-even-numbers) |
 ## Dijkstra's Algorithm
 |  |
