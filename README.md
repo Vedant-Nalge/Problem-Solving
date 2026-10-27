@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1598-crawler-log-folder) |
 | [1631-path-with-minimum-effort](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1631-path-with-minimum-effort) |
 | [1901-find-a-peak-element-ii](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1901-find-a-peak-element-ii) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/2563-count-the-number-of-fair-pairs) |
 | [3028-ant-on-the-boundary](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/3028-ant-on-the-boundary) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0997-find-the-town-judge) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/3483-unique-3-digit-even-numbers) |
 ## Greedy
 |  |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1598-crawler-log-folder](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1598-crawler-log-folder) |
 | [1903-largest-odd-number-in-string](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1903-largest-odd-number-in-string) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Two Pointers
 |  |
 | ------- |
@@ -593,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-find-center-of-star-graph](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1971-find-if-path-exists-in-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 ## Bidirectional Search
 |  |
@@ -615,10 +619,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0210-course-schedule-ii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0207-course-schedule) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Memoization
 |  |
 | ------- |
