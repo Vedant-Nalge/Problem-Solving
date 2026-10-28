@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0907-sum-of-subarray-minimums) |
 | [0928-minimize-malware-spread-ii](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0928-minimize-malware-spread-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0986-interval-list-intersections) |
 | [0994-rotting-oranges](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0986-interval-list-intersections) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Binary Search
@@ -758,4 +760,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0075-sort-colors) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
