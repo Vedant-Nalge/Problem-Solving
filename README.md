@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0071-simplify-path](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0115-distinct-subsequences) |
