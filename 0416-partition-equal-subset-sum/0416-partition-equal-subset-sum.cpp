@@ -1,42 +1,35 @@
 class Solution {
 public:
-    bool helper(int ind,int target,vector<vector<int>> &dp,vector<int> & nums){
-        if(target == 0) return true;
-
-        if(ind ==0) return bool(nums[ind] == target);
-
-        if(dp[ind][target]!=-1) return dp[ind][target];
-
-        bool notpick = helper(ind-1,target,dp,nums);
-         bool pick =false;
-
-         if(nums[ind]<=target) pick = helper(ind-1,target - nums[ind],dp,nums);
-
-         return dp[ind][target]= pick || notpick;
-    }
-     
-    bool subsetsum(vector<int>&nums,int target){
-        int n = nums.size();
-        vector<vector<int>> dp (n,vector<int>(target+1,-1));
-
-        return helper(n-1,target,dp,nums);
-
-
-
-    }
-    bool canPartition(vector<int>& nums) {
-        int n = nums.size();
-
-        int sum =0;
-
-        for(int i =0 ;i<n;i++){
-            sum+=nums[i];
-
-        }
-
-        if(sum%2!=0) return false;
-
-        else return subsetsum(nums,sum/2);
+    bool helper(int i, int target, vector<int>& nums, vector<vector<int>>& dp) {
         
+        if (target == 0) return true;
+        if (i < 0 || target < 0) return false;
+        
+        
+        if (dp[i][target] != -1) return dp[i][target];
+        
+       
+        bool take = helper(i - 1, target - nums[i], nums, dp);
+        
+        
+        bool nottake = helper(i - 1, target, nums, dp);
+        
+        return dp[i][target] = (take || nottake);
+    }
+
+    bool canPartition(vector<int>& nums) {
+        int totalSum = 0;
+        for (int num : nums) totalSum += num;
+
+        
+        if (totalSum % 2 != 0) return false;
+
+        int target = totalSum / 2;
+        int n = nums.size();
+
+        
+        vector<vector<int>> dp(n, vector<int>(target + 1, -1));
+
+        return helper(n - 1, target, nums, dp);
     }
 };
