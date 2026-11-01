@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0713-subarray-product-less-than-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0746-min-cost-climbing-stairs) |
 | [0846-hand-of-straights](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0846-hand-of-straights) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0739-daily-temperatures](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0907-sum-of-subarray-minimums) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0739-daily-temperatures](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0907-sum-of-subarray-minimums) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/2487-remove-nodes-from-linked-list) |
