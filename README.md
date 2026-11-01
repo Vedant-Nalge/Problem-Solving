@@ -477,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0662-maximum-width-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0928-minimize-malware-spread-ii](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0928-minimize-malware-spread-ii) |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0662-maximum-width-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0928-minimize-malware-spread-ii](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0928-minimize-malware-spread-ii) |
@@ -598,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0684-redundant-connection) |
 | [0928-minimize-malware-spread-ii](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0928-minimize-malware-spread-ii) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -609,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0684-redundant-connection) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0928-minimize-malware-spread-ii](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0928-minimize-malware-spread-ii) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0947-most-stones-removed-with-same-row-or-column) |
