@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0997-find-the-town-judge) |
+| [1189-maximum-number-of-balloons](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1189-maximum-number-of-balloons) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0621-task-scheduler) |
+| [1189-maximum-number-of-balloons](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1189-maximum-number-of-balloons) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1021-remove-outermost-parentheses) |
 | [1092-shortest-common-supersequence](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1143-longest-common-subsequence) |
+| [1189-maximum-number-of-balloons](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1189-maximum-number-of-balloons) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1598-crawler-log-folder](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1598-crawler-log-folder) |
