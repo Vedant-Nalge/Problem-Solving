@@ -6,27 +6,15 @@
  *     TreeNode *right;
  *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
  *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left),
- * right(right) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
 class Solution {
 public:
-    int helper(TreeNode* node) {
-        if (node == NULL)
-            return 0;
-
-        if (node->left == NULL)
-            return 1 + helper(node->right);
-        else if (node->right == NULL)
-            return 1 + helper(node->left);
-        else
-            return min(1 + helper(node->right), 1 + helper(node->left));
-    }
     int minDepth(TreeNode* root) {
-        if (root == NULL)
-            return 0;
-
-        return helper(root);
+        if(root == NULL) return 0 ;
+        if (root->left == nullptr) return 1 + minDepth(root->right);
+        if (root->right == nullptr) return 1 + minDepth(root->left);
+        return 1+ min(minDepth(root->left),minDepth(root->right));
     }
 };
