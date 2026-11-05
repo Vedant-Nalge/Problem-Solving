@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0169-majority-element) |
@@ -573,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0222-count-complete-tree-nodes) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Linked List
