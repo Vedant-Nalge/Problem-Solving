@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0846-hand-of-straights) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1903-largest-odd-number-in-string) |
+| [2429-minimize-xor](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/2429-minimize-xor) |
 ## Sorting
 |  |
 | ------- |
@@ -582,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/2425-bitwise-xor-of-all-pairings) |
+| [2429-minimize-xor](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/2429-minimize-xor) |
 ## Linked List
 |  |
 | ------- |
