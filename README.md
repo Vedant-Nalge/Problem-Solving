@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1598-crawler-log-folder](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1598-crawler-log-folder) |
 | [1631-path-with-minimum-effort](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1631-path-with-minimum-effort) |
+| [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1901-find-a-peak-element-ii](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1901-find-a-peak-element-ii) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0973-k-closest-points-to-origin) |
+| [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1903-largest-odd-number-in-string](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1922-count-good-numbers) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/3783-mirror-distance-of-an-integer) |
@@ -577,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0222-count-complete-tree-nodes) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 ## Linked List
 |  |
 | ------- |
