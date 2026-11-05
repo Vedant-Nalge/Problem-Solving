@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1901-find-a-peak-element-ii](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1901-find-a-peak-element-ii) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/2563-count-the-number-of-fair-pairs) |
 | [3028-ant-on-the-boundary](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/3028-ant-on-the-boundary) |
@@ -580,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0222-count-complete-tree-nodes) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/2425-bitwise-xor-of-all-pairings) |
 ## Linked List
 |  |
 | ------- |
@@ -682,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0319-bulb-switcher) |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/2425-bitwise-xor-of-all-pairings) |
 ## Recursion
 |  |
 | ------- |
