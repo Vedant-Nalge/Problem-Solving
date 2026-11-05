@@ -580,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0222-count-complete-tree-nodes) |
+| [1009-complement-of-base-10-integer](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1009-complement-of-base-10-integer) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/2425-bitwise-xor-of-all-pairings) |
