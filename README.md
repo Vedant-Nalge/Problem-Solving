@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0037-sudoku-solver](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0045-jump-game-ii) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0037-sudoku-solver](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0127-word-ladder) |
@@ -615,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0130-surrounded-regions) |
@@ -660,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0040-combination-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0126-word-ladder-ii) |
@@ -831,4 +835,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0973-k-closest-points-to-origin) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
