@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0621-task-scheduler) |
 | [1189-maximum-number-of-balloons](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1189-maximum-number-of-balloons) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0316-remove-duplicate-letters) |
+| [0383-ransom-note](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0409-longest-palindrome) |
