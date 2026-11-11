@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [2384-largest-palindromic-number](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/2384-largest-palindromic-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/3483-unique-3-digit-even-numbers) |
 ## Greedy
 |  |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0846-hand-of-straights) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1903-largest-odd-number-in-string) |
+| [2384-largest-palindromic-number](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/2384-largest-palindromic-number) |
 | [2429-minimize-xor](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/2429-minimize-xor) |
 ## Sorting
 |  |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0621-task-scheduler) |
 | [1189-maximum-number-of-balloons](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1189-maximum-number-of-balloons) |
+| [2384-largest-palindromic-number](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/2384-largest-palindromic-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -409,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1598-crawler-log-folder) |
 | [1903-largest-odd-number-in-string](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1903-largest-odd-number-in-string) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [2384-largest-palindromic-number](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/2384-largest-palindromic-number) |
 ## Two Pointers
 |  |
 | ------- |
