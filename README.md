@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0496-next-greater-element-i) |
+| [0502-ipo](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0502-ipo) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0621-task-scheduler) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0502-ipo) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0646-maximum-length-of-pair-chain) |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0451-sort-characters-by-frequency](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
+| [0502-ipo](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0787-cheapest-flights-within-k-stops) |
