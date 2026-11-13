@@ -1,34 +1,26 @@
 class Solution {
 public:
-    long long helper(int ind, int k, vector<vector<int>>& dp,
-                     vector<int>& coins) {
+    int helper(int i, int k, vector<int>& coins, vector<vector<int>>& dp) {
+        if (i < 0 || k < 0)
+            return 1e9;
         if (k == 0)
             return 0;
-        if (ind == 0) {
-            if (k % coins[ind] == 0)
-                return k / coins[ind];
-            else
-               return  1e9;
-        }
+        if (dp[i][k] != -1)
+            return dp[i][k];
 
-        if (dp[ind][k] != -1)
-            return dp[ind][k];
+        int nottake = helper(i - 1, k, coins, dp);
+        int take = 1e9;
+        if (coins[i] <= k)
+            take = 1 + helper(i, k - coins[i], coins, dp);
 
-        long long nottake = helper(ind - 1, k, dp, coins);
-        long long take = 1e9;
-        if (coins[ind] <= k)
-            take = 1 + helper(ind, k - coins[ind], dp, coins);
-
-        return dp[ind][k] = min(take, nottake);
+        dp[i][k] = min(take, nottake);
+        return dp[i][k];
     }
-
     int coinChange(vector<int>& coins, int amount) {
         int n = coins.size();
-        // variables are coin size , amount
         vector<vector<int>> dp(n + 1, vector<int>(amount + 1, -1));
-
-        long long ans = helper(n - 1, amount, dp, coins);
-
+        // dp[denomi][target]
+        int ans = helper(n - 1, amount, coins, dp);
         if (ans >= 1e9)
             return -1;
         else
