@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0126-word-ladder-ii) |
@@ -505,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0100-same-tree) |
@@ -646,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0695-max-area-of-island) |
@@ -694,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0040-combination-sum-ii) |
+| [0079-word-search](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0126-word-ladder-ii) |
 | [0494-target-sum](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0494-target-sum) |
 ## Boyer–Moore Majority Vote Algorithm
