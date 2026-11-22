@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0258-add-digits) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0072-edit-distance) |
+| [0096-unique-binary-search-trees](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0101-symmetric-tree) |
@@ -557,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0101-symmetric-tree) |
@@ -648,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
