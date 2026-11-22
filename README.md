@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1046-last-stone-weight) |
 | [1049-last-stone-weight-ii](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1049-last-stone-weight-ii) |
 | [1095-find-in-mountain-array](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1095-find-in-mountain-array) |
+| [1223-dice-roll-simulation](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1223-dice-roll-simulation) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-last-stone-weight-ii](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1049-last-stone-weight-ii) |
 | [1092-shortest-common-supersequence](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1143-longest-common-subsequence) |
+| [1223-dice-roll-simulation](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1223-dice-roll-simulation) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Vedant-Nalge/Problem-Solving/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## String
